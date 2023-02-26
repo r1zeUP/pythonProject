@@ -1,0 +1,411 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:root:Поиск: вфы
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:44] "GET /search?s=вфы HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: вфы
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:49] "GET /search?s=вфы HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: f
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:54] "GET /search?s=f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:06:54] "[36mGET /uploads/dead%20shrekside.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: к
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:05] "GET /search?s=к HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:05] "[36mGET /uploads/431960_screenshots_20210216012744_1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: котенок
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:18] "GET /search?s=котенок HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:08:18] "[36mGET /uploads/431960_screenshots_20210216012744_1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:09:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:09:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:09:27] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:09:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загружено не изображение
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:09:46] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:18:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:18:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:19:08] "[35m[1mGET /search?s=ага HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:19:08] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:19:08] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:19:08] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:19:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: fua
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:54] "GET /search?s=fua HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:57] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:21:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:23:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:23:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: Ага
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:23:34] "GET /search?s=Ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Feb/2023 20:23:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:07] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: d
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:10] "[35m[1mGET /search?s=d HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: d
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:36] "[35m[1mGET /search?s=d HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:36] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:36] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:36] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:37] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:47] "GET /search?s=a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: d
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:51] "GET /search?s=d HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:51] "[36mGET /uploads/dead%20shrekside.jpg HTTP/1.1[0m" 304 -
+INFO:root:Поиск: а
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:56] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 11:07:56] "[36mGET /uploads/431960_screenshots_20210216012744_1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:30:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:30:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:30:24] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:30:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:30:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:30:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:30:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:05] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:05] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:05] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:06] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:06] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:07] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:07] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:07] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:07] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:31:07] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:27] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:35] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:36] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:36] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:36] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:35:36] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:36:25] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:36:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:36:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:36:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:36:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:44:28] "GET /search?s=a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:44:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:44:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:44:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:44:33] "GET /search?s=a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:44:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: f
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:06] "GET /search?s=f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:06] "[36mGET /uploads/dead%20shrekside.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: а
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:18] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:18] "[36mGET /uploads/431960_screenshots_20210216012744_1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:45:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:07] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:07] "[36mGET /uploads/dead%20shrekside.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:07] "[36mGET /uploads/431960_screenshots_20210216012744_1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:12] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:32] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:32] "GET /uploads/2022-03-19_11-11-55.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:40] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:53:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:32] "[35m[1mGET /search?s=a HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:32] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:32] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:32] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:32] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: а
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:41] "[35m[1mGET /search?s=а HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:41] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:41] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:41] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: а
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:58] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:57:58] "[36mGET /uploads/431960_screenshots_20210216012744_1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:58:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:58:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:58:05] "GET /search?s=a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:58:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:58:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 15:58:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:02:48] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:02:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:02:58] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:02:58] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:02:58] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:02:58] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:02:59] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:03:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:03:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:14] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:19] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:34] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:38] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:07:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:werkzeug: * Detected change in 'C:\\Users\\Егоров\\PycharmProjects\\pythonProject\\homework\\12\\main\\tools.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-773-099
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:02] "GET /search?s=a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:03] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:08] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:09] "GET /uploads/2022-03-19_11-11-55.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: a
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:14] "GET /search?s=a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:14] "[36mGET /uploads/2022-03-19_11-11-55.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 16:18:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
